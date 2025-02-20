@@ -5,7 +5,7 @@
              "appIDs": ["2GZJW7FJZX.pranavsai.Basketball-Training-Planner"],
              "components": [
                {
-                  "/": "/app/?*",
+                  "/": "/app/test",
                }
              ]
            }
