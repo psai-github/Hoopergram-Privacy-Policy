@@ -1,14 +1,11 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": ["2GZJW7FJZX.pranavsai.Basketball-Training-Planner"],
-             "components": [
-               {
-                  "/": "*",
-               }
-             ]
-           }
-       ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appID": "2GZJW7FJZX.pranavsai.Basketball-Training-Planner",
+        "paths": [ "/app/*" ]
+      }
+    ]
+  }
 }
