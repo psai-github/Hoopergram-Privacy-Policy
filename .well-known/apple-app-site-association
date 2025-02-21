@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "2GZJW7FJZX.pranavsai.Basketball-Training-Planner",
-        "paths": [ "/app/*" ]
+        "paths": [ "*" ]
       }
     ]
   }
